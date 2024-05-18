@@ -13,11 +13,6 @@
 </div>
 <hr>
 <div>
-	<h3>Website DEMO</h3>
-  	<ul>
-		<li>https://www.youtube.com/watch?v=K5KtjIR-9ts&ab_channel=IdrissJairi</li>
-		<li>Admin Login Page: http://localhost/restaurant-website-php-mysql/admin/</li>
-	</ul>
 	<p>
 		Username: admin_user
 		<br>
